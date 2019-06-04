@@ -13,7 +13,7 @@ user = api.me()
 print(user.name)
 
 def main():
-    search = ("recessed")
+    search = ("bitcoin")
     
     numberofTweets = 5
     for tweet in tweepy.Cursor(api.search, search).items(numberofTweets):
