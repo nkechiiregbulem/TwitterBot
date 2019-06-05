@@ -1,4 +1,4 @@
-# TwitterBot  <img src="https://image.flaticon.com/icons/svg/33/33985.svg" width="20" height="20" /> 
+# TwitterBot  
     A series of Twitter Bots that will Optimize your Twitter Page. Using Python, Tweepy, and TwitterAPI
 
 
