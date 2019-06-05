@@ -1,4 +1,4 @@
-# TwitterBot
+# TwitterBot  <img src="https://image.flaticon.com/icons/svg/33/33985.svg" width="20" height="20" /> 
     A series of Twitter Bots that will Optimize your Twitter Page. Using Python, Tweepy, and TwitterAPI
 
 
@@ -8,4 +8,4 @@ This application will allow companies and individuals who are looking to grow th
      pip install tweepy
      pip install textblob
 
-<img src="https://image.flaticon.com/icons/svg/33/33985.svg" width="20" height="50" /> 
+<img src="https://image.flaticon.com/icons/svg/33/33985.svg" width="20" height="20" /> TwitterAPI
